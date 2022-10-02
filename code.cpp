@@ -160,3 +160,5 @@ signed main()
     buildHuffman(str);
     
     return 0;
+
+}
