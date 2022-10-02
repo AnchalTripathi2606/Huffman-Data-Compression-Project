@@ -156,3 +156,5 @@ signed main()
     fastIO
     string str;
     getline(cin, str);
+    
+    buildHuffman(str);
