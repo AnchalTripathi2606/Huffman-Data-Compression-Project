@@ -158,3 +158,5 @@ signed main()
     getline(cin, str);
     
     buildHuffman(str);
+    
+    return 0;
