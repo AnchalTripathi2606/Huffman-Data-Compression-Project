@@ -150,7 +150,7 @@ void buildHuffman(string text){
     cout<<"String is compressed to "<<compressionRate*100<<"% of the total size."<<endl;
 }
 
-///Huffman coding begins
+///Huffman coding begins here
 signed main()
 {
     fastIO
